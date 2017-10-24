@@ -6,6 +6,7 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 
 ## Lista de Contribuidores
 
+- Andre Duarte Leite
 - Bruna Cunha de Oliveira
 - Federico Jansen de Oliveira
 - Felipe Marques Megale
@@ -16,4 +17,4 @@ O DACC (Diretório Acadêmico da Ciência da Computação) mantém este reposit�
 - Marco Antônio Ramos Cardoso Braga
 - Paulo H. Souza
 - Ygor Matheus Lacerda de Melo
-- Andre Duarte Leite
+
