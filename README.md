@@ -5,6 +5,7 @@ Este repositório contém vários exercícios disponíveis no site CodeFights em
 ## Linguagens disponíveis
 
 * C
+* C++
 * C#
 * Go
 * Java
